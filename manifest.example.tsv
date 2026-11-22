@@ -1,0 +1,3 @@
+subject	anat	func
+mouse01	data/mouse01/anat/t2w.nii.gz	data/mouse01/func/rest01.nii.gz
+mouse01	data/mouse01/anat/t2w.nii.gz	data/mouse01/func/rest02.nii.gz
